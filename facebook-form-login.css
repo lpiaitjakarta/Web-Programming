@@ -1,0 +1,40 @@
+.container {
+  background-color: #0000FF;
+  height: 25%;
+  display: block;
+  color: #FFF;
+}
+.logo {
+  padding: 4% 0 0 5%;
+  margin-right: 0;
+  float: left;
+  clear: none;
+  font: 14pt tahoma;
+}
+.form {
+  float: right;
+  padding-top: 2%;
+  padding-left: 30%;
+  width: 50%;
+}
+.label {
+  float: left;
+  padding-left: 10%;
+  font: 12px verdana;
+}
+label {
+  clear: both;
+  display: block;
+  padding-bottom: 2%;
+}
+.input-text {
+  width: 100px;
+}
+a {
+  color: #9cb4d8;
+  text-decoration: none;
+  font: 10px arial;
+}
+a:hover{
+  text-decoration: underline;
+}
